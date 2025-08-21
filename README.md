@@ -11,6 +11,8 @@ OBJECTIVES
 •	To control the direction of a DC motor using the L298N motor driver.
 •	To regulate the speed of the motor using Pulse Width Modulation (PWM) signals from the Arduino UNO.
 •	To understand motor driver functionality and Arduino programming.
+
+
 COMPONENTS REQUIRED
 
 Hardware Components:
